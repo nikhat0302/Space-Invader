@@ -1,5 +1,3 @@
-# Space-Invader
-
 
 Follow the instruction to play the game.
 
