@@ -1,7 +1,7 @@
 # Space-Invader
 
 
-# Follow the instruction to play the game.
+Follow the instruction to play the game.
 
 
 Left Arrow Key ---->   To move Left
